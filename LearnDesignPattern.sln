@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactoryDesignPatter
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProxyDesignPattern", "ProxyDesignPattern\ProxyDesignPattern.csproj", "{9EAECFB6-39D4-4EE5-B815-FEF4BED9C4D1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdapterDesignPattern", "AdapterDesignPattern\AdapterDesignPattern.csproj", "{EAA8A602-2275-4994-92B2-14F3CA9EA75D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -156,5 +158,17 @@ Global
 		{9EAECFB6-39D4-4EE5-B815-FEF4BED9C4D1}.Release|x64.Build.0 = Release|x64
 		{9EAECFB6-39D4-4EE5-B815-FEF4BED9C4D1}.Release|x86.ActiveCfg = Release|x86
 		{9EAECFB6-39D4-4EE5-B815-FEF4BED9C4D1}.Release|x86.Build.0 = Release|x86
+		{EAA8A602-2275-4994-92B2-14F3CA9EA75D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAA8A602-2275-4994-92B2-14F3CA9EA75D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAA8A602-2275-4994-92B2-14F3CA9EA75D}.Debug|x64.ActiveCfg = Debug|x64
+		{EAA8A602-2275-4994-92B2-14F3CA9EA75D}.Debug|x64.Build.0 = Debug|x64
+		{EAA8A602-2275-4994-92B2-14F3CA9EA75D}.Debug|x86.ActiveCfg = Debug|x86
+		{EAA8A602-2275-4994-92B2-14F3CA9EA75D}.Debug|x86.Build.0 = Debug|x86
+		{EAA8A602-2275-4994-92B2-14F3CA9EA75D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAA8A602-2275-4994-92B2-14F3CA9EA75D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAA8A602-2275-4994-92B2-14F3CA9EA75D}.Release|x64.ActiveCfg = Release|x64
+		{EAA8A602-2275-4994-92B2-14F3CA9EA75D}.Release|x64.Build.0 = Release|x64
+		{EAA8A602-2275-4994-92B2-14F3CA9EA75D}.Release|x86.ActiveCfg = Release|x86
+		{EAA8A602-2275-4994-92B2-14F3CA9EA75D}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal
