@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommandDesignPattern", "Com
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterpreterDesignPattern", "InterpreterDesignPattern\InterpreterDesignPattern.csproj", "{99D769CA-B0E2-4156-817C-9DB9B9825228}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisitorDesignPattern", "VisitorDesignPattern\VisitorDesignPattern.csproj", "{D0B10027-CB71-4D13-862B-81779CBA570E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -296,5 +298,17 @@ Global
 		{99D769CA-B0E2-4156-817C-9DB9B9825228}.Release|x64.Build.0 = Release|x64
 		{99D769CA-B0E2-4156-817C-9DB9B9825228}.Release|x86.ActiveCfg = Release|x86
 		{99D769CA-B0E2-4156-817C-9DB9B9825228}.Release|x86.Build.0 = Release|x86
+		{D0B10027-CB71-4D13-862B-81779CBA570E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0B10027-CB71-4D13-862B-81779CBA570E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0B10027-CB71-4D13-862B-81779CBA570E}.Debug|x64.ActiveCfg = Debug|x64
+		{D0B10027-CB71-4D13-862B-81779CBA570E}.Debug|x64.Build.0 = Debug|x64
+		{D0B10027-CB71-4D13-862B-81779CBA570E}.Debug|x86.ActiveCfg = Debug|x86
+		{D0B10027-CB71-4D13-862B-81779CBA570E}.Debug|x86.Build.0 = Debug|x86
+		{D0B10027-CB71-4D13-862B-81779CBA570E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0B10027-CB71-4D13-862B-81779CBA570E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0B10027-CB71-4D13-862B-81779CBA570E}.Release|x64.ActiveCfg = Release|x64
+		{D0B10027-CB71-4D13-862B-81779CBA570E}.Release|x64.Build.0 = Release|x64
+		{D0B10027-CB71-4D13-862B-81779CBA570E}.Release|x86.ActiveCfg = Release|x86
+		{D0B10027-CB71-4D13-862B-81779CBA570E}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal
