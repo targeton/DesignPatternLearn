@@ -6,7 +6,10 @@ namespace DecorateDesignPattern
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            ConcreteComponent component = new ConcreteComponent();
+            ConcreteDecorate decorate = new ConcreteDecorate();
+            decorate.SetComponent(component);
+            decorate.Operation();
         }
     }
 }
